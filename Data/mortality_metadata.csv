@@ -1,0 +1,18 @@
+variable ,description,units
+database,which source was used to compile the data ,NA
+subject_id,an identifier for cards transcribed in zooniverse project,NA
+new_key,the unique lake identifier given by the Michigan Department of Natural Resources,NA
+Lake,lake name,NA
+County,geographic region in the State of Michigan,NA
+Township,square parcel of land designated in the Public Land Survey System,NA
+Range,a subdivision of township in the Public Land Survey System,NA
+Section,a subdivision of range in the Public Land Survey System,NA
+lat,latitude of the lake ,decimal degrees
+long,longitude of the lake ,decimal degrees
+URL 4 (front),link for image of the front of historical data card,NA
+URL 8 (back),link for image of the back of historical data card,NA
+day,day of the month of the observation,NA
+month,month of the observation,NA
+month.cat,month of the observation,NA
+year,year of the observation,NA
+doy,day of the year of the observation number between 1 and 365,NA

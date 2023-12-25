@@ -1,4 +1,7 @@
 # CHANGES_Mortality
+
+DOI: 10.5281/zenodo.10431217
+
 Mass fish mortality events in Michigan inland lakes
 
 This repository contains the data and code that supports the manuscript: Alofs KM and KE Wehrly. In Prep. Fish Mass Mortality Events in Northern Temperate Lakes Are Occurring Later in the Year than they Did Historically.

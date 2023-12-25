@@ -1,6 +1,8 @@
 # CHANGES_Mortality
 
 DOI: 10.5281/zenodo.10431217
+![image](https://github.com/kmalofs/CHANGES_Mortality/assets/38637733/137f8495-0fd7-469d-9882-b723b19b8474)
+
 
 Mass fish mortality events in Michigan inland lakes
 
